@@ -1,11 +1,6 @@
 {
   "name": "stable-system",
   "version": "1.0.0",
-  "type": "module"
-}
-{
-  "name": "stable-system",
-  "version": "1.0.0",
   "private": true,
   "type": "module",
   "engines": {
